@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entity-mappings>
+    <package>org.jboss.as.quickstarts.helloworld</package>
+    <entity class="org.jboss.as.quickstarts.helloworld.HelloWorld" name="HelloWorld">
+        <table name="HELLOWORLD"/>
+        <attributes>
+            <id name="messageId">
+                <generated-value strategy="TABLE"/>
+            </id>
+            <basic name="helloMessage">
+                <column name="HELLO_MESSAGE" length="255"/>
+            </basic>
+        </attributes>
+    </entity>
+</entity-mappings>
+

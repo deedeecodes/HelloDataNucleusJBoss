@@ -1,0 +1,7 @@
+#Sat Sep 09 18:02:15 EEST 2023
+configuration*?=6A337AD72D53B0C1DC45BB87E35B93E3BA3D9C94
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\Users\\diana\\Downloads\\jboss-eap-7.2.0-quickstarts\\jboss-eap-7.2.0.GA-quickstarts\\helloworld\\src\\main\\java\\org\\jboss\\as\\quickstarts\\helloworld\\HelloWorld.java=1694271727091
+C\:\\Users\\diana\\Downloads\\jboss-eap-7.2.0-quickstarts\\jboss-eap-7.2.0.GA-quickstarts\\helloworld\\src\\main\\resources\\META-INF\\orm.xml=1694260842841
+C\:\\Users\\diana\\Downloads\\jboss-eap-7.2.0-quickstarts\\jboss-eap-7.2.0.GA-quickstarts\\helloworld\\src\\main\\java\\org\\jboss\\as\\quickstarts\\helloworld\\HelloWorldServlet.java=1694271154605
+C\:\\Users\\diana\\Downloads\\jboss-eap-7.2.0-quickstarts\\jboss-eap-7.2.0.GA-quickstarts\\helloworld\\src\\main\\resources\\META-INF\\persistence.xml=1694267101399
